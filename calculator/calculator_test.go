@@ -1,4 +1,4 @@
-package mash
+package calculator
 
 import "testing"
 
